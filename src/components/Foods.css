@@ -1,0 +1,16 @@
+/* .all {
+    width: 1200px;
+    height: 500px;
+} */
+
+.row1 {
+    display: flex;
+}
+
+.row2 {
+    display: flex;
+}
+
+.row3 {
+    display: flex;
+}

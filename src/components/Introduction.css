@@ -1,0 +1,15 @@
+.containers {
+    margin-top: 35px;
+    text-align: center;
+    justify-items: center;
+    color: rgb(194, 215, 243)
+}
+
+.para {
+    text-align: center;
+
+    font-size: large;
+    margin: 30px;
+    width: 80%;
+    margin-left: 10%;
+}

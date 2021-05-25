@@ -1,0 +1,39 @@
+img {
+    width: 300px;
+    height: auto;
+    max-height: 280px;;
+    align-items: center;
+    margin: 10px;
+}
+
+.picture {
+    align-items: center;
+}
+
+.flex {
+    margin:30px;
+    width:650px;
+    height:300px;
+
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    background-color: rgb(134, 197, 218);
+}
+
+/* .flex::before {
+    background-image:url('https://placekitten.com/1200/800');
+    background-size: cover;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left:0px;
+    right:0px;
+    opacity: 0.5;
+} */
+
+.link {
+    align-items: baseline;
+}
